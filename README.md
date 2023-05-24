@@ -1,1 +1,1 @@
-This is an archive of my course work in CPSC 1430
+This is an archive of my course work from CPSC-1430 (Programming and Problem Solving II)
