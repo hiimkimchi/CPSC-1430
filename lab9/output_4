@@ -1,0 +1,73 @@
+
+
+
+[ ] Stress-test the p4 executable
+
+
+[ ] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[ ] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[ ] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+No entry text provided.
+
+[ ] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[ ] Give it a bogus command
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+Unrecognized command.
+
+[ ] Give it a bogus command
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[X] Give it a bogus command
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[ ] Add a really long entry. ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[X] Give it a bogus command
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[X] Add a really long entry. ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[X] Give it a bogus command
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[ ] Stress-test the p4 executable
+
+
+[X] Add a really long entry. ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[X] Give it a bogus command
+[X] Check how it handles missing text input
+[X] Check how it handles empty lines
+[X] Stress-test the p4 executable
+
