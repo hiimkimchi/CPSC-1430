@@ -2,9 +2,8 @@
 Taken at Seattle University with Dr. Braxton Cuneo
 
 ## Main Topics Covered: 
-- pointers
 - memory management (pointers, dynamic memory)
-- basic class and struct design (introducing .h and Makefile)
+- basic class design (introducing header files and GNU Make)
 - data structures (linked lists, stack, queue)
 ##
 
